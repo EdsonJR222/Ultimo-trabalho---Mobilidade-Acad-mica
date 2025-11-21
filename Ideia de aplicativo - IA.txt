@@ -1,0 +1,29 @@
+Fluxo de Autorização para Emissão de Notas (Serviços e Mercadorias)
+
+É necessário desenvolver um fluxo de autorização para emissão de notas fiscais, tanto de serviços quanto de mercadorias, com acompanhamento em tempo real.
+
+O cliente deverá ser notificado por meio do aplicativo sempre que houver uma nota pendente de emissão.
+Ao clicar na opção de autorização, o sistema enviará o comando para a empresa, que emitirá automaticamente a nota fiscal e a devolverá no próprio aplicativo, disponível para consulta e anexo.
+
+O aplicativo deve ser simples e intuitivo, semelhante a um correio eletrônico, permitindo anexar notas e gerenciar autorizações de forma prática.
+A autorização de emissão deve estar vinculada ao cadastro do cliente no aplicativo, garantindo segurança e rastreabilidade.
+
+Fluxo do Usuário (Cliente):
+
+O cliente acessa o aplicativo e solicita a emissão da nota que deseja autorizar.
+
+O sistema apresenta um formulário para preenchimento das seguintes informações:
+
+Número da Ordem de Serviço (OS)
+
+Placa do Veículo
+
+CNPJ/CPF
+
+Razão Social / Nome
+
+Valor da Nota
+
+Forma de Pagamento
+
+Após o envio, o sistema encaminha automaticamente a solicitação para a empresa responsável pela emissão da nota.
