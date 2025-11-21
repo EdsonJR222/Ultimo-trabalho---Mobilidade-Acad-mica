@@ -1,0 +1,11 @@
+Membros: 
+Amanda Vitória Nascimento;
+Edson Batista de Assis Junior;
+Leandro Arruda dos Santos;
+Leison Valdeci Martins da Silva;
+Luccas Gabriel Silva Alves;
+Luiz Xavier da Costa Silva;
+Sarah Luisa Ikegami Loeblein Schaurich;
+Tatiely da Silva Campos;
+Vinicius Carlos dos Santos;
+Yasmim de Oliveira Silva.
